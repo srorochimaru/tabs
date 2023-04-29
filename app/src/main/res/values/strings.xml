@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EjemploAPI28</string>
+    <string name="tab_text_1">quien_soy</string>
+    <string name="tab_text_2">aranceles</string>
+    <string name="tab_text_3">conocimineto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">quien soy </string>
+    <string name="hello_blank_fragment2">aranceles</string>
+    <string name="hello_blank_fragment3">habilidades</string>
+
+</resources>
